@@ -39,35 +39,6 @@ This project implements two complementary machine learning paradigms to optimize
 
 ---
 
-## 📁 Repository Structure
-
-```
-lending-club-policy-optimization/
-│
-├── README.md                          # This file
-├── requirements.txt                   # Python dependencies
-├── All_codes.ipynb                    # Complete notebook (Tasks 1-4)
-│
-├── notebooks/                         # Individual task notebooks
-│   ├── 01_EDA_and_Preprocessing.ipynb
-│   ├── 02_Supervised_DL_Model.ipynb
-│   ├── 03_Offline_RL_Agent.ipynb
-│   └── 04_Analysis_and_Comparison.ipynb
-│
-├── data/
-│   ├── README_DATA.md                 # Dataset download instructions
-│   └── raw/                           # (Not in repo - download separately)
-│
-├── reports/
-│   ├── Task4_Final_Report.md
-│   └── Task4_Final_Report.pdf
-│
-└── results/
-    ├── metrics.csv
-    └── plots/
-```
-
----
 
 ## 🚀 Quick Start (5 Minutes)
 
